@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8c5c32a1-5d26-4d7f-b5ab-a0c63c58867b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../LevelRequireQuest/src/requirmentcheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LuxiRPG/src/Item/ModifierGUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LuxiRPG/src/Parties/PartyDungeonHook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LuxiRPG/src/ThreadManager/ScoreboardThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../LuxiRPG/src/Util/Bank.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/LuxiRPG.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/LuxiRPG.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/bin/Attr/AttributeStorage.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/bin/Attr/AttributeStorage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/bin/Attr/Attributes$1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/bin/Attr/Attributes$1$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/bin/Attr/Attributes$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/bin/Attr/Attributes$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/bin/Attr/Attributes$Attribute$Builder.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/bin/Attr/Attributes$Attribute$Builder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/bin/Attr/Attributes$Attribute.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/bin/Attr/Attributes$Attribute.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/bin/Attr/Attributes$AttributeType.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/bin/Attr/Attributes$AttributeType.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/bin/Attr/Attributes$Operation.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/bin/Attr/Attributes$Operation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/bin/Attr/Attributes.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/bin/Attr/Attributes.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/bin/Attr/Attributes_12$1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/bin/Attr/Attributes_12$1$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/bin/Attr/Attributes_12$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/bin/Attr/Attributes_12$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/bin/Attr/Attributes_12$Attribute$Builder.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/bin/Attr/Attributes_12$Attribute$Builder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/bin/Attr/Attributes_12$Attribute.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/bin/Attr/Attributes_12$Attribute.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/bin/Attr/Attributes_12$AttributeType.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/bin/Attr/Attributes_12$AttributeType.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/bin/Attr/Attributes_12$Operation.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/bin/Attr/Attributes_12$Operation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/bin/Attr/Attributes_12.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/bin/Attr/Attributes_12.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/bin/ChatManager/ChatManager$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/bin/ChatManager/ChatManager$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/bin/ChatManager/ChatManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/bin/ChatManager/ChatManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/bin/ChucNghiep/ChonClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/bin/ChucNghiep/ChonClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/bin/ChucNghiep/Classes.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/bin/ChucNghiep/Classes.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/bin/ChucNghiep/Races.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/bin/ChucNghiep/Races.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/bin/Item/Enhancement.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/bin/Item/Enhancement.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/bin/Item/EnhancementGUI.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/bin/Item/EnhancementGUI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/bin/Item/EnhancementGuiHolder.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/bin/Item/EnhancementGuiHolder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/bin/Item/ItemDrop.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/bin/Item/ItemDrop.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/bin/Item/ItemStats.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/bin/Item/ItemStats.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/bin/Item/ItemTier.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/bin/Item/ItemTier.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/bin/Item/Modifier.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/bin/Item/Modifier.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/bin/Item/RandomItem.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/bin/Item/RandomItem.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/bin/Item/Rarity.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/bin/Item/Rarity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/bin/Item/StatsType.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/bin/Item/StatsType.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/bin/Lightning/Lightning.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/bin/Lightning/Lightning.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/bin/Luxi/SPlayer/RPGPlayer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/bin/Luxi/SPlayer/RPGPlayer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/bin/Luxi/SPlayer/RPGPlayerListener$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/bin/Luxi/SPlayer/RPGPlayerListener$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/bin/Luxi/SPlayer/RPGPlayerListener$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/bin/Luxi/SPlayer/RPGPlayerListener$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/bin/Luxi/SPlayer/RPGPlayerListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/bin/Luxi/SPlayer/RPGPlayerListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/bin/Luxiel/Main$1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/bin/Luxiel/Main$1$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/bin/Luxiel/Main$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/bin/Luxiel/Main$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/bin/Luxiel/Main$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/bin/Luxiel/Main$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/bin/Luxiel/Main$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/bin/Luxiel/Main$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/bin/Luxiel/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/bin/Luxiel/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/bin/Luxiel/Profile.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/bin/Luxiel/Profile.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/bin/Luxiel/SatThuong.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/bin/Luxiel/SatThuong.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/bin/Parties/PartiesGUI.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/bin/Parties/PartiesGUI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/bin/Parties/Party$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/bin/Parties/Party$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/bin/Parties/Party$PartyRank.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/bin/Parties/Party$PartyRank.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/bin/Parties/Party.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/bin/Parties/Party.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/bin/Parties/PartyGuiHolder.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/bin/Parties/PartyGuiHolder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/bin/Parties/PartyUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/bin/Parties/PartyUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/bin/Parties/ToDoiCommand.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/bin/Parties/ToDoiCommand.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/bin/ThreadManager/ManaRegen.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/bin/ThreadManager/ManaRegen.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/bin/ThreadManager/StaminaRegen.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/bin/ThreadManager/StaminaRegen.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/bin/ThreadManager/TaskRegen$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/bin/ThreadManager/TaskRegen$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/bin/ThreadManager/TaskRegen.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/bin/ThreadManager/TaskRegen.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/bin/Util/CenteredMessage.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/bin/Util/CenteredMessage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/bin/Util/ColorTransition.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/bin/Util/ColorTransition.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/bin/Util/DefaultFontInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/bin/Util/DefaultFontInfo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/bin/Util/FItem.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/bin/Util/FItem.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/bin/Util/FSkull.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/bin/Util/FSkull.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/bin/Util/FU.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/bin/Util/FU.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/bin/Util/Sit$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/bin/Util/Sit$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/bin/Util/Sit.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/bin/Util/Sit.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/bin/Util/Utils$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/bin/Util/Utils$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/bin/Util/Utils$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/bin/Util/Utils$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/bin/Util/Utils.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/bin/Util/Utils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/bin/attack/ChargedAttack$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/bin/attack/ChargedAttack$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/bin/attack/ChargedAttack$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/bin/attack/ChargedAttack$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/bin/attack/ChargedAttack$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/bin/attack/ChargedAttack$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/bin/attack/ChargedAttack.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/bin/attack/ChargedAttack.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/bin/attack/KnightAttack$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/bin/attack/KnightAttack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/bin/attack/TargetSystem.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/bin/attack/TargetSystem.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/bin/guild/FamGuiHolder.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/bin/guild/FamGuiHolder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/bin/guild/Familia.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/bin/guild/Familia.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/bin/guild/Guild$GuildGuiHolder.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/bin/guild/Guild$GuildGuiHolder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/bin/guild/Guild.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/bin/guild/Guild.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/bin/guild/GuildCommand.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/bin/guild/GuildCommand.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/bin/guild/GuildGUI.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/bin/guild/GuildGUI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/bin/guild/GuildGuiHolder.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/bin/guild/GuildGuiHolder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/bin/guild/GuildUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/bin/guild/GuildUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/bin/levelsystem/ExpChangeEvent.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/bin/levelsystem/ExpChangeEvent.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/bin/levelsystem/LevelSystem.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/bin/levelsystem/LevelSystem.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/bin/levelsystem/Xxpcommand.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/bin/levelsystem/Xxpcommand.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/bin/skill/Cast.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/bin/skill/Cast.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/bin/skill/Fire1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/bin/skill/Fire1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/bin/skill/Fire2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/bin/skill/Fire2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/bin/skill/Fire3.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/bin/skill/Fire3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/bin/skill/Fire4.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/bin/skill/Fire4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/bin/skill/SkillCastEvent.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/bin/skill/SkillCastEvent.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/bin/skill/SkillCastList.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/bin/skill/SkillCastList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/bin/skill/Thunder1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/bin/skill/Thunder1$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/bin/skill/Thunder1$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/bin/skill/Thunder1$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/bin/skill/Thunder1$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/bin/skill/Thunder1$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/bin/skill/Thunder1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/bin/skill/Thunder1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/bin/skill/Thunder2$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/bin/skill/Thunder2$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/bin/skill/Thunder2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/bin/skill/Thunder2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/bin/skill/Thunder3.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/bin/skill/Thunder3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/bin/skill/Thunder4.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/bin/skill/Thunder4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/bin/skill/ThunderCharged$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/bin/skill/ThunderCharged$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/bin/skill/ThunderCharged.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/bin/skill/ThunderCharged.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/bin/skill/Water1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/bin/skill/Water1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/bin/skill/Water2$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/bin/skill/Water2$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/bin/skill/Water2$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/bin/skill/Water2$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/bin/skill/Water2$3$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/bin/skill/Water2$3$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/bin/skill/Water2$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/bin/skill/Water2$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/bin/skill/Water2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/bin/skill/Water2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/bin/skill/Water3$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/bin/skill/Water3$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/bin/skill/Water3.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/bin/skill/Water3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/bin/skill/Water4$1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/bin/skill/Water4$1$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/bin/skill/Water4$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/bin/skill/Water4$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/bin/skill/Water4$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/bin/skill/Water4$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/bin/skill/Water4.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/bin/skill/Water4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/bin/skill/Wind1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/bin/skill/Wind1$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/bin/skill/Wind1$2$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/bin/skill/Wind1$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/bin/skill/Wind1$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/bin/skill/Wind1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/bin/skill/Wind1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/bin/skill/Wind2$1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/bin/skill/Wind2$1$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/bin/skill/Wind2$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/bin/skill/Wind2$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/bin/skill/Wind2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/bin/skill/Wind2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/bin/skill/Wind3$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/bin/skill/Wind3$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/bin/skill/Wind3.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/bin/skill/Wind3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/bin/skill/Wind4$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/bin/skill/Wind4$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/bin/skill/Wind4$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/bin/skill/Wind4$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/bin/skill/Wind4.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/bin/skill/Wind4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/bin/skill/WindCharged$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/bin/skill/WindCharged$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/bin/skill/WindCharged.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/bin/skill/WindCharged.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/bin/stat/EditItemCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/bin/stat/HoiMau.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/bin/stat/HoiMau.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/bin/stat/ItemClassCheck.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/bin/stat/StatPlayer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/bin/stat/StatPlayer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/plugin.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/plugin.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/src/ChatManager/ChatManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/src/ChatManager/ChatManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/src/ChucNghiep/ChonClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/src/ChucNghiep/ChonClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/src/ChucNghiep/Classes.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/src/ChucNghiep/Classes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/src/Item/Enhancement.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/src/Item/Enhancement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/src/Item/EnhancementGUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/src/Item/EnhancementGUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/src/Item/ItemDrop.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/src/Item/ItemDrop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/src/Item/ItemStats.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/src/Item/ItemStats.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/src/Item/ItemTier.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/src/Item/ItemTier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/src/Item/Modifier.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/src/Item/Modifier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/src/Item/RandomItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/src/Item/RandomItem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/src/Luxi/SPlayer/RPGPlayerListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/src/Luxi/SPlayer/RPGPlayerListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/src/Luxiel/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/src/Luxiel/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/src/Luxiel/Profile.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/src/Luxiel/Profile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/src/Luxiel/SatThuong.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/src/Luxiel/SatThuong.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/src/Parties/PartiesGUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/src/Parties/PartiesGUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/src/Parties/Party.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/src/Parties/Party.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/src/Parties/PartyUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/src/Parties/PartyUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/src/ThreadManager/ManaRegen.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/src/ThreadManager/ManaRegen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/src/ThreadManager/StaminaRegen.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/src/ThreadManager/StaminaRegen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/src/ThreadManager/TaskRegen.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/src/ThreadManager/TaskRegen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/src/Util/Sit.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/src/Util/Sit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/src/Util/Utils.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/src/Util/Utils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/src/attack/ChargedAttack.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/src/attack/ChargedAttack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/src/attack/KnightAttack.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/src/attack/SlashAttack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/src/guild/Familia.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/src/guild/Familia.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/src/guild/Guild.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/src/guild/Guild.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/src/guild/GuildCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/src/guild/GuildCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/src/guild/GuildGUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/src/guild/GuildGUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/src/guild/GuildUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/src/guild/GuildUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/src/levelsystem/LevelSystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/src/levelsystem/LevelSystem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/src/levelsystem/Xxpcommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/src/levelsystem/Xxpcommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/src/skill/Cast.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/src/skill/Cast.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/src/skill/Fire1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/src/skill/Fire1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/src/skill/Fire2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/src/skill/Fire2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/src/skill/Fire3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/src/skill/Fire3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/src/skill/Fire4.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/src/skill/Fire4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/src/skill/SkillCastEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/src/skill/SkillCastEvent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/src/skill/SkillCastList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/src/skill/SkillCastList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/src/skill/Thunder1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/src/skill/Thunder1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/src/skill/Thunder2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/src/skill/Thunder2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/src/skill/Thunder3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/src/skill/Thunder3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/src/skill/Thunder4.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/src/skill/Thunder4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/src/skill/ThunderCharged.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/src/skill/ThunderCharged.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/src/skill/Water1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/src/skill/Water1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/src/skill/Water2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/src/skill/Water2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/src/skill/Water3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/src/skill/Water3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/src/skill/Water4.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/src/skill/Water4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/src/skill/Wind1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/src/skill/Wind1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/src/skill/Wind2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/src/skill/Wind2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/src/skill/Wind3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/src/skill/Wind3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/src/skill/Wind4.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/src/skill/Wind4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/src/skill/WindCharged.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/src/skill/WindCharged.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/src/stat/EditItemCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/src/Item/EditItemCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/src/stat/HoiMau.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/src/stat/HoiMau.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/src/stat/ItemClassCheck.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/src/Item/ItemClassCheck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LuxiRPG/src/stat/StatPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../LuxiRPG/src/stat/StatPlayer.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1oiTRHEondaQ2qQD2aAQA7pnuvd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8c5c32a1-5d26-4d7f-b5ab-a0c63c58867b" name="Default Changelist" comment="" />
+      <created>1613768401025</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1613768401025</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
